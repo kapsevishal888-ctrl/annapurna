@@ -1,0 +1,56 @@
+{
+  "recipeId": "UK-004",
+  "slug": "aloo-ke-gutke",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Spiced Hill Potatoes (Aloo ke gutke), vegetarian dish from Uttarakhand: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "recipeId": "UP-073",
+  "slug": "aloo-dum-banarasi",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Banarasi Dum Aloo (Banarasi dum aloo), vegetarian dish from Uttar Pradesh: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
