@@ -1,0 +1,56 @@
+{
+  "recipeId": "HP-031",
+  "slug": "aktori",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Aktori (Aktori), vegetarian dish from Himachal Pradesh: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
