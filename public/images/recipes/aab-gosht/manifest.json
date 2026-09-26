@@ -1,0 +1,56 @@
+{
+  "recipeId": "JK-024",
+  "slug": "aab-gosht",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Milk Mutton (Aab gosht), non-vegetarian dish from Jammu & Kashmir: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
