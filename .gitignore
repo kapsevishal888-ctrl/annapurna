@@ -1,0 +1,11 @@
+node_modules
+.vercel
+screenshots
+attachments
+artifacts
+.grok
+scripts/regions
+*.log
+.DS_Store
+.node_modules.lock
+.project_id
