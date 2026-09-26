@@ -1,0 +1,56 @@
+{
+  "recipeId": "KL-023",
+  "slug": "ada-pradhaman",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Rice Ada Pudding (Ada pradhaman), vegetarian dish from Kerala: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
