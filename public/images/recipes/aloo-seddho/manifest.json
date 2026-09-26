@@ -1,0 +1,56 @@
+{
+  "recipeId": "WB-054",
+  "slug": "aloo-seddho",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Mustard Oil Potato Mash (Aloo seddho), vegetarian dish from West Bengal: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
