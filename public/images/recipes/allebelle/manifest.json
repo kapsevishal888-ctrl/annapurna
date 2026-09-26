@@ -1,0 +1,56 @@
+{
+  "recipeId": "GA-011",
+  "slug": "allebelle",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Coconut Pancakes (Alle belle), vegetarian dish from Goa: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}

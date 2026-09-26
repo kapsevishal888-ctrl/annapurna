@@ -1,0 +1,56 @@
+{
+  "recipeId": "DL-001",
+  "slug": "aloo-chaat",
+  "doNotReuse": true,
+  "requiredShots": [
+    {
+      "file": "hero.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: hero. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "ingredients.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: labelled ingredients. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-01.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-02.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "step-03.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: cooking step. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "plated.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: plated serving. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    },
+    {
+      "file": "icon.webp",
+      "status": "missing",
+      "alt": "Potato Chaat (Aloo chaat), vegetarian dish from Delhi: illustrated icon. Photo coming if this frame is empty.",
+      "doNotReuse": true,
+      "currentFile": null
+    }
+  ]
+}
